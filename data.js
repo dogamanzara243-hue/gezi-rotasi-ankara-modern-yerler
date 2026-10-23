@@ -1,0 +1,32 @@
+const DETAIL_DATA = {
+    "title": "Ankara Modern Yerler Rehberi",
+    "description": "Şehrin hareketli meydanları, alışveriş merkezleri ve modern yapıları.",
+    "badge": "Modern Yerler",
+    "items": [
+        {
+            "category": "Popüler Nokta 1",
+            "title": "Önemli Mekan 1 - Ankara",
+            "desc": "Ankara şehrinin en çok ziyaret edilen gözde lokasyonlarından biri."
+        },
+        {
+            "category": "Popüler Nokta 2",
+            "title": "Önemli Mekan 2 - Ankara",
+            "desc": "Tarihi ve kültürel dokusuyla büyüleyen özel bir nokta."
+        },
+        {
+            "category": "Popüler Nokta 3",
+            "title": "Önemli Mekan 3 - Ankara",
+            "desc": "Gezginlerin rotasından eksik etmediği popüler bir durak."
+        },
+        {
+            "category": "Popüler Nokta 4",
+            "title": "Önemli Mekan 4 - Ankara",
+            "desc": "Mimari ve doğal güzellikleriyle göz kamaştıran bölge."
+        },
+        {
+            "category": "Popüler Nokta 5",
+            "title": "Önemli Mekan 5 - Ankara",
+            "desc": "Ankara keşif turunun vazgeçilmez simgelerinden biri."
+        }
+    ]
+};
